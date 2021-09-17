@@ -1,0 +1,29 @@
+{
+  "posts": [
+    {
+      "nome": "Flávio Faria",
+      "mensagem": "Seja bem vindo ao meu blog pessoal!",
+      "id": 1
+    },
+    {
+      "id": 2,
+      "nome": "Márcio Antunes",
+      "mensagem": "Este blog é fantástico"
+    },
+    {
+      "id": 3,
+      "nome": "Ana Paula Fernandes",
+      "mensagem": "Esta postagem é muito boa!"
+    },
+    {
+      "nome": "Marco Grella",
+      "mensagem": "Teste de postagem com método Post",
+      "id": 4
+    },
+    {
+      "nome": "Novo Post",
+      "mensagem": "Teste de nova postagem! ",
+      "id": 5
+    }
+  ]
+}
